@@ -1,0 +1,70 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #1e3d59;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.tagline {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Section Styling */
+section {
+    padding: 40px 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+/* Services Cards */
+.service-card {
+    background-color: #e8f1f8;
+    margin: 15px 0;
+    padding: 20px;
+    border-left: 5px solid #1e3d59;
+}
+
+/* Testimonials */
+.testimonial {
+    background-color: #fff3cd;
+    padding: 15px;
+    margin: 15px 0;
+    border-left: 5px solid #ffc107;
+}
+
+/* Contact Form */
+input, textarea {
+    width: 80%;
+    padding: 10px;
+}
+
+button {
+    background-color: #1e3d59;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #16324f;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e3d59;
+    color: white;
+}
